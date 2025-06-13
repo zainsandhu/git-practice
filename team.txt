@@ -1,0 +1,1 @@
+Team struture fot Git project
